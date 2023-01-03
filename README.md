@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuaSevim
 - 👀 I’m a Junior Web Developer
-- 🌱 I’m currently working as a freelance web developer
+- 🌱 I’m currently working as a freelancer
 - 💞️ I’m actively searching for a job in Front-end position
 - 📫 How to reach me: mua.sevim@gmail.com
 
