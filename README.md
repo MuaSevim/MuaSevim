@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuaSevim
-- 👀 I’m a Junior Web Developer
+- 👀 I’m a Junior Web Developer who is based in Örebro, Sweden
 - 🌱 I’m currently working as a freelancer
 - 💞️ I’m actively searching for a full-time job as a Front-End Developer
 - 📫 How to reach me: mua.sevim@gmail.com
