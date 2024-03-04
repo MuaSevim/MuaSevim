@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mua Sevim
-- 👀 I’m a Junior Web Developer currently based in Örebro, Sweden
+- 👀 I’m a Junior Web Developer currently based in Madris, Spain
 - 🌱 I’m currently working as a Full Stack freelancer
 - 💞️ Actively searching for a full-time job as a Front-End Web Developer anywhere around Europe 
 - 📫 Reach out:
