@@ -1,7 +1,7 @@
 - 👋 Greetings, I’m Mua Sevim
-- 👀 Passionate Junior Web Developer currently based in Istanbul
-- 🖋️ Studying Computer Engineering at Altinbas University 
-- 🌱 Currently working as a Full Stack freelancer
+- 👀 Passionate Junior Web Developer currently based in Istanbul, Turkey
+- 🖋️ Studying Computer Engineering at University of Altinbas 
+- 🌱 Currently working as Frontend Developer freelancer
 - 💼 Seeking a rewarding full-time role as a Front-End Web Developer within Europe. 
 - 📫 Reach out:
    📩 mua.sevim@gmail.com
