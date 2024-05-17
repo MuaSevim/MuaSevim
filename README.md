@@ -1,8 +1,8 @@
 - 👋 Greetings, I’m Mua Sevim
 - 👀 Passionate Junior Web Developer currently based in Istanbul, Turkey
-- 🖋️ Studying Computer Engineering at University of Altinbas 
+- 🖋️ Studying Computer Engineering at the University of Altinbas 
 - 🌱 Currently working as Frontend Developer freelancer
-- 💼 Seeking a rewarding full-time role as a Front-End Web Developer within Europe. 
+- 💼 Front-end Developer at Hogarth Worldwide 
 - 📫 Reach out:
    📩 mua.sevim@gmail.com
    📞 +905302748182
