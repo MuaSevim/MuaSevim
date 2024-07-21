@@ -1,10 +1,9 @@
 - 👋 Greetings, I’m Mua Sevim
-- 👀 Passionate Junior Web Developer currently based in Istanbul, Turkey
+- 👀 Passionate Web Developer currently based in Madrid, Spain
+- 🌱 Junior Web Developer at Hogarth Madrid
 - 🖋️ Studying Computer Engineering at the University of Altinbas 
-- 🌱 Currently working as Frontend Developer freelancer
-- 💼 Junior Front-end Developer at Hogarth Worldwide 
 - 📫 Reach out:
-   📩 mua.sevim@gmail.com
+   📩 mua.sevim@hogarth.com
    📞 +905302748182
 
 <!---
