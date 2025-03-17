@@ -1,5 +1,6 @@
 〽️ Mua Sevim, 24  
 🏚️ Istanbul, Turkey  
 🔧 Computer Engineer  
-🪄 [explore](https://muasevim.github.io/)  
+🪄 [Portfolio](https://muasevim.github.io/)  
+📫 [mua.sevim@gmail.com](mailto:mua.sevim@gmail.com)
 "we shouldn't have left the trees"
