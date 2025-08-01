@@ -1,4 +1,4 @@
-〽️ Mua Sevim, 29  
+〽️ Mua Sevim, 24  
 📍 Stockholm, Sweden  
 🔧 Computer Engineer  
 
