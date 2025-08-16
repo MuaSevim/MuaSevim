@@ -4,5 +4,5 @@
 
 ---
 
-🪄 [Check out my website!](https://muasevim.github.io/)  
+🪄 [Check out my portfolio!](https://muasevim.com/)  
 📫 [mua.sevim@gmail.com](mailto:mua.sevim@gmail.com)  
