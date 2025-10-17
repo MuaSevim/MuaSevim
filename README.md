@@ -1,5 +1,5 @@
 〽️ Mua Sevim, 25  
-📍 Stockholm, Sweden  
+📍 Istanbul, Sweden  
 🔧 Computer Engineer  
 
 ---
