@@ -1,8 +1,6 @@
 〽️ Mua Sevim, 25  
 📍 Istanbul, Sweden  
-🔧 Computer Engineer  
+🔧 Full Stack Engineer  
 
----
-
-🪄 [Check out my portfolio!](https://muasevim.com/)  
-📫 [mua.sevim@gmail.com](mailto:mua.sevim@gmail.com)  
+[comment]: <> (🪄 [Check out my portfolio!](https://muasevim.com/))
+[comment]: <> (🪄 [📫 [mua.sevim@gmail.com](mailto:mua.sevim@gmail.com))
