@@ -1,4 +1,4 @@
 〽️ Muhammed Sevim, 25  
 📍 Istanbul, Sweden  
-🔧 Full Stack Engineer  
+🔧 Full Stack Software Engineer  
 📫 [mua.sevim@gmail.com](mailto:mua.sevim@gmail.com)
